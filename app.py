@@ -7,7 +7,7 @@ page_bg = """
 [data-testid="stAppViewContainer"] {
     background-image: url("https://www.indabaxtunisia.com/2023/assets/images/supcom.png");
     background-size: cover;
-    opacity: 1;  /* transparency: 1 = opaque, 0 = fully transparent */
+    opacity: 0.1;  /* transparency: 1 = opaque, 0 = fully transparent */
 }
 </style>
 """
